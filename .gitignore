@@ -1,0 +1,6 @@
+# output
+site/
+
+# OS
+**/.DS_Store
+thumbs.db
